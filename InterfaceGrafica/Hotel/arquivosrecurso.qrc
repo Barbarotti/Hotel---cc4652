@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imagens/hotem-imagem.jpg</file>
+        <file>imagens/icone-cadastro-cliente-p  ng.png</file>
+        <file>imagens/icone-cadastro-cliente3-png.png</file>
+        <file>imagens/calendario.png</file>
+        <file>imagens/quarto-adicionar.jpg</file>
+        <file>imagens/login.jpg</file>
+        <file>imagens/cadastrar-func.png</file>
+        <file>imagens/config.png</file>
+        <file>imagens/remover.png</file>
+        <file>imagens/lixeira.jpg</file>
+        <file>imagens/cadastros.png</file>
+        <file>imagens/cadastrar-cliente.png</file>
+        <file>imagens/icone-cadastro-cliente4-png.png</file>
+        <file>imagens/close-btn.png</file>
+        <file>imagens/configuracoes.png</file>
+        <file>imagens/configuracoes2.png</file>
+        <file>imagens/icone-cadastro-png.png</file>
+        <file>imagens/buscar-cliente.png</file>
+        <file>imagens/reservas.png</file>
+        <file>imagens/hotel2.jpg</file>
+        <file>imagens/cliente.png</file>
+        <file>imagens/quartoregistro.png</file>
+        <file>imagens/home.png</file>
+        <file>imagens/buscar1.png</file>
+        <file>imagens/checkout.png</file>
+        <file>imagens/renovar.png</file>
+        <file>imagens/homemenu.png</file>
+        <file>imagens/renovacaoreserva.png</file>
+        <file>imagens/renovarreserva.png</file>
+        <file>imagens/adicionaritem.jpg</file>
+        <file>imagens/addproduct.jpg</file>
+        <file>imagens/cadeado.jpg</file>
+        <file>imagens/iconcadeado.png</file>
+        <file>imagens/funcionarios.png</file>
+        <file>imagens/plusicon.png</file>
+        <file>imagens/additem.jpg</file>
+    </qresource>
+</RCC>
